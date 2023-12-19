@@ -13,7 +13,7 @@ import {
   fetchStop,
   addSlice,
   searchId,
-} from "../../store/ticketsSlice.js";
+} from "../store/ticketsSlice.js";
 import { useSelector } from "react-redux";
 
 const TicketList = () => {
